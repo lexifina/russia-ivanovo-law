@@ -1,0 +1,11 @@
+{
+  "path": "ru-iva",
+  "code": "RU-IVA",
+  "name": "Ivanovo Oblast",
+  "level": "region",
+  "parent": "ru",
+  "repo": "https://github.com/lexifina/russia-ivanovo-law",
+  "build": "catalogue: facts only, no law text (Official Internet Portal of Legal Information metadata)",
+  "language": "ru",
+  "sources": 1
+}
