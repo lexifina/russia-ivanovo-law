@@ -1,6 +1,6 @@
 # Ivanovo Oblast: catalogue of the laws published in 2026 (facts only, no law text)
 
-Законы 2026 · 10 versions, from 2026-02-04 (latest in force: 2026-10-02) · <http://publication.pravo.gov.ru/documents/block/region37>
+Законы 2026 · 12 versions, from 2026-02-04 (latest in force: 2026-11-19) · <http://publication.pravo.gov.ru/documents/block/region37>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -62,6 +62,12 @@
 | Закон № 6-ОЗ | [6-oz.md](6-oz.md) | 1 | 2026-03-04 |
 | Закон № 60-ОЗ | [60-oz.md](60-oz.md) | 1 | 2026-10-02 |
 | Закон № 61-ОЗ | [61-oz.md](61-oz.md) | 1 | 2026-10-02 |
+| Закон № 62-ОЗ | [62-oz.md](62-oz.md) | 1 | 2026-11-06 |
+| Закон № 63-ОЗ | [63-oz.md](63-oz.md) | 1 | 2026-11-06 |
+| Закон № 64-ОЗ | [64-oz.md](64-oz.md) | 1 | 2026-11-06 |
+| Закон № 65-ОЗ | [65-oz.md](65-oz.md) | 1 | 2026-11-06 |
+| Закон № 66-ОЗ | [66-oz.md](66-oz.md) | 1 | 2026-11-06 |
+| Закон № 67-ОЗ | [67-oz.md](67-oz.md) | 1 | 2026-11-19 |
 | Закон № 7-ОЗ | [7-oz.md](7-oz.md) | 1 | 2026-03-04 |
 | Закон № 8-ОЗ | [8-oz.md](8-oz.md) | 1 | 2026-03-04 |
 | Закон № 9-ОЗ | [9-oz.md](9-oz.md) | 1 | 2026-04-01 |
