@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T06:59:00Z",
+ "generated": "2026-11-26T06:15:59Z",
  "latest": {
   "pravo-ivanovo|russia/ivanovo/acts": {
    "attempt": 1,
@@ -21,11 +21,11 @@
     "repo": 1199,
     "source_in_scope": 1199
    },
-   "check_id": "ru-pravo-ivanovo-20261125T052604Z",
+   "check_id": "ru-pravo-ivanovo-20261126T052530Z",
    "commits": null,
    "corpus": "russia/ivanovo/acts",
    "error": null,
-   "finished": "2026-11-25T05:29:26Z",
+   "finished": "2026-11-26T05:26:03Z",
    "flags": [],
    "gap": 0,
    "note": "publication.pravo.gov.ru, block region37: 1199 law-type documents listed (every page read); 1199 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
@@ -35,7 +35,7 @@
     "changed": [],
     "removed": []
    },
-   "requests": 10,
+   "requests": 9,
    "runner": "lawwatch russia (65e3dde363)",
    "schema": "lexifina-check/1",
    "seen": {
@@ -45,7 +45,7 @@
    },
    "snapshot": "1199 law-type documents in block region37; newest published 2026-11-19",
    "source": "pravo-ivanovo",
-   "started": "2026-11-25T05:26:04Z",
+   "started": "2026-11-26T05:25:30Z",
    "unexplained": 0,
    "update": {
     "parts": []
